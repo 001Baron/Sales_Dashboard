@@ -1,5 +1,3 @@
-# Sales_Dashboard
-
 # Interactive Sales Dashboard with SQL and Power BI
 
 This project demonstrates the creation of an interactive sales dashboard using SQL for data preparation and Power BI for visualization. The dashboard provides insights into sales performance, trends, and key metrics.
